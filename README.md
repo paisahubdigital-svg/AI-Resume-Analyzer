@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/a_clean_composite_screenshot_collage_of_a_web_app.png" width="100%">
+</p>
 # 🚀 AI Resume Analyzer
 
 An AI-powered Resume Analyzer built using Python and Google Colab.
