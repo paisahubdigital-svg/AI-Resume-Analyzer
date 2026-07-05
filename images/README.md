@@ -1,1 +1,3 @@
-<img src="images/AI Resume.png" width="100%">
+<p align="center">
+  <img src="images/resume-preview.png" width="100%">
+</p>
