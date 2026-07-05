@@ -1,0 +1,6 @@
+pymupdf
+spacy
+pandas
+matplotlib
+gradio
+google-generativeai
