@@ -1,1 +1,1 @@
-Project screenshots will be added here.
+<img src="images/AI Resume.png" width="100%">
